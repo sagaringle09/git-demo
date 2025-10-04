@@ -1,2 +1,2 @@
-Feature1
+Feature1 + bugfix1
 Feature2
